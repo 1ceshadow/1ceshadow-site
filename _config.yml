@@ -24,7 +24,7 @@
 # Preferences (controls template behavior)
 preferences:
   homepage:
-    enabled: false
+    enabled: true
   search:
     enabled: true
   backlinks:
@@ -57,7 +57,7 @@ menu:
 
 # Footer
 footer:
-  copyright: "© 2024 Your Name. Contents under CC-BY-NC"
+  copyright: "© 2025 田锦程. 网站内容采用 CC-BY-NC"
   credits:
     enabled: true
     url: "/credits"

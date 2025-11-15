@@ -4,7 +4,7 @@
 
 layout: Post
 permalink: /
-title: Jekyll Garden
+title: 1ceshadow's Blog👋
 ---
 
 Jekyll Garden is a simple theme that turns your Obsidian notes into a beautiful website. If you use Obsidian for note-taking, this theme makes it easy to publish your markdown files as a connected website with wiki-style links and full-text search.
