@@ -24,7 +24,7 @@
 # Preferences (controls template behavior)
 preferences:
   homepage:
-    enabled: true
+    enabled: false
   search:
     enabled: true
   backlinks:
