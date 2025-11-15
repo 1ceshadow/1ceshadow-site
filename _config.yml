@@ -36,7 +36,7 @@ preferences:
 
 # Site Configuration
 title: "1ceshadow's Blog"
-heading: ""
+heading: "^_^"
 description: "这是我的个人小站"
 url: "https://1ceshadow.github.io"
 baseurl: "/1ceshadow-site"
