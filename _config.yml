@@ -35,11 +35,11 @@ preferences:
     enabled: true
 
 # Site Configuration
-title: "Your Site Title"
-heading: "Your Name"
-description: "A brief description of your site"
-url: "https://yoursite.com"
-baseurl: ""
+title: "1ceshadow's Blog"
+heading: "1ceshadow"
+description: "这是我的个人小站"
+url: "https://1ceshadow.github.io"
+baseurl: "/1ceshadow-site"
 
 # Asset Configuration
 apple_touch_icon: "/assets/img/profile.png"
