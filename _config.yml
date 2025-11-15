@@ -36,7 +36,7 @@ preferences:
 
 # Site Configuration
 title: "1ceshadow's Blog"
-heading: "1ceshadow"
+heading: ""
 description: "这是我的个人小站"
 url: "https://1ceshadow.github.io"
 baseurl: "/1ceshadow-site"
@@ -48,16 +48,16 @@ ie_css: "/assets/css/ie-target.css"
 
 # Menu Items
 menu:
-  - title: "Notes"
+  - title: "笔记"
     url: "/notes"
-  - title: "Blog"
+  - title: "博客"
     url: "/blog"
   - title: "About"
     url: "/about"
 
 # Footer
 footer:
-  copyright: "© 2025 田锦程. 网站内容采用 CC-BY-NC"
+  copyright: "© 2025 iceshadow. 网站内容采用 CC-BY-NC"
   credits:
     enabled: true
     url: "/credits"
